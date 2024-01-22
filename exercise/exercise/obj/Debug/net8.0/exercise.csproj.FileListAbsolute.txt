@@ -1,0 +1,14 @@
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\bin\Debug\net8.0\exercise.exe
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\bin\Debug\net8.0\exercise.deps.json
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\bin\Debug\net8.0\exercise.runtimeconfig.json
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\bin\Debug\net8.0\exercise.dll
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\bin\Debug\net8.0\exercise.pdb
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\obj\Debug\net8.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\obj\Debug\net8.0\exercise.AssemblyInfoInputs.cache
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\obj\Debug\net8.0\exercise.AssemblyInfo.cs
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\obj\Debug\net8.0\exercise.csproj.CoreCompileInputs.cache
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\obj\Debug\net8.0\exercise.dll
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\obj\Debug\net8.0\refint\exercise.dll
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\obj\Debug\net8.0\exercise.pdb
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\obj\Debug\net8.0\exercise.genruntimeconfig.cache
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\exercise\exercise\obj\Debug\net8.0\ref\exercise.dll

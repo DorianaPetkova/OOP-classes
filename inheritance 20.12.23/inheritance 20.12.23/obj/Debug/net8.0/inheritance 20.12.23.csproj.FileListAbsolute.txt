@@ -1,0 +1,14 @@
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\bin\Debug\net8.0\inheritance 20.12.23.exe
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\bin\Debug\net8.0\inheritance 20.12.23.deps.json
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\bin\Debug\net8.0\inheritance 20.12.23.runtimeconfig.json
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\bin\Debug\net8.0\inheritance 20.12.23.dll
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\bin\Debug\net8.0\inheritance 20.12.23.pdb
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\obj\Debug\net8.0\inheritance 20.12.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\obj\Debug\net8.0\inheritance 20.12.23.AssemblyInfoInputs.cache
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\obj\Debug\net8.0\inheritance 20.12.23.AssemblyInfo.cs
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\obj\Debug\net8.0\inheritance 20.12.23.csproj.CoreCompileInputs.cache
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\obj\Debug\net8.0\inheritance 20.12.23.dll
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\obj\Debug\net8.0\refint\inheritance 20.12.23.dll
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\obj\Debug\net8.0\inheritance 20.12.23.pdb
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\obj\Debug\net8.0\inheritance 20.12.23.genruntimeconfig.cache
+C:\Users\RailCargo\OneDrive - Министерство на образованието и науката\Documents\Don't touch-DORI\Work-dori\coding\c#\inheritance 20.12.23\inheritance 20.12.23\obj\Debug\net8.0\ref\inheritance 20.12.23.dll
